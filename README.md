@@ -11,7 +11,7 @@ Install Torch1.8 and dependencies
 Dataset: StyleGAN, CelebA;
 Please adjust the file location before training and testing;
 train: Change and Run the main.py;
-test: Change and Run the test_baseline.py.
+test: Change and Run the test.py.
 
 ## Acknowledgements
 This work is based on AdvGAN and its implementation:https://github.com/mathcbc/advGAN_pytorch.
